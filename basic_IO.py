@@ -25,3 +25,5 @@ f.close()
 f=open("simpleTutorial.txt","a")
 f.write("\nThis is the next line")
 f.close()
+
+#https://www.youtube.com/playlist?list=PLiINKPFJSaBmLlaIG3UgJ6h4ZMP-WXsCw
