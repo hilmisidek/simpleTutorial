@@ -3,15 +3,15 @@ x=int(input("Insert x value: ").strip())
 y=int(input("Insert y value: ").strip())
 
 print (f"x value is {x}, y value is {y}")
-if (x<2):
+if (x<y):
     print ("x<2 is true")
 else:
     print ("x<2 is false")
-if (x>2):
+if (x>y):
     print ("x>2 is true")
 else:
     print ("x>2 if false")
-if (x==2):
+if (x==y):
     print ("x==2 is true")
 else:
     print ("x==2 is false")
@@ -28,6 +28,7 @@ elif (mark<21):
     print("You pass")
 else:
     print ("You are excellent")
+
 
 #https://www.youtube.com/playlist?list=PLiINKPFJSaBmLlaIG3UgJ6h4ZMP-WXsCw
 
