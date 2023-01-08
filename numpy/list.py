@@ -1,0 +1,22 @@
+#python list
+myList=[1,3,2,4,6,5]
+print(myList)
+myList.append(8)
+print(myList)
+myList[1]=7
+print(myList)
+myList.pop(1)
+print(myList)
+myList.remove(4)
+print(myList)
+myList.pop(myList.index(2))
+print(myList)
+myList.clear()
+print(myList)
+#operation
+myList=[1,3,2,4,6,5]
+print(myList)
+myList.sort()
+print(myList)
+myList.reverse
+print(myList)
